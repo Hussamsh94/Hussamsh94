@@ -92,6 +92,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hussamsh94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussamsh94&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hussamsh94&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=-?,-C,-B)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
